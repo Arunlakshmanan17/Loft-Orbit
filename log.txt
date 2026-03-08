@@ -1,0 +1,15 @@
+timestamp=2026-03-08T02:56:44.451349+00:00
+voltage_v=26.4
+current_a=2.0
+ocp=0
+decision=SHUTDOWN
+reason=limit violated
+ocp_error_flag=1
+
+timestamp=2026-03-08T02:57:31.722439+00:00
+voltage_v=26.6
+current_a=2.0
+ocp=0
+decision=KEEP_ON
+reason=all nominal
+ocp_error_flag=0
